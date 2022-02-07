@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360646654319",
+    "project_id": "wisatainaja-9bb9d",
+    "storage_bucket": "wisatainaja-9bb9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360646654319:android:43651db5f4339718d1d09a",
+        "android_client_info": {
+          "package_name": "id.lorddev.wisatainaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360646654319-2flldviac14rem261lkfg75gas3070bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lorddev.wisatainaja",
+            "certificate_hash": "391d7397abcd024a52100f23eefbb308326a53ba"
+          }
+        },
+        {
+          "client_id": "360646654319-aidk0tblja0pvnpd4q8816uotptdkl5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMwgCiCXpHV-TOolditbb3MH-GcMKAfFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360646654319-aidk0tblja0pvnpd4q8816uotptdkl5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
